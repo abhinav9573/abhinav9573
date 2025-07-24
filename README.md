@@ -1,16 +1,64 @@
-## Hi there 👋
 
-<!--
-**abhinav9573/abhinav9573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README for abhinav9573 -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Abhinav Gupta 👋</h1>
+<p align="center">
+  <em>iOS Developer • Computer Science Student • Problem Solver</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 📍 Based in Noida, India
+- 🎓 B.Tech in Computer Science & Engineering @ Galgotias University (2022-2026)
+- 🛠️ I love building impactful tech, especially with Swift & UI/UX in mind
+- 🎵 Music enthusiast (singing & listening) and avid traveler
+- 😅 Fun fact: Never planned to be a coder, but now enjoying it!
+
+---
+
+### 🚀 Projects
+- **[ClosetCompass](https://github.com/abhinav9573/ClosetCompass)**  
+  Personal wardrobe manager with chatbot, packing plans, and more. *(Swift, iOS)*
+
+- **[DeleteHunger](https://github.com/abhinav9573/DeleteHunger)**  
+  Platform to reduce food waste, UN Zero Hunger aligned. *(HTML/CSS/JS/PHP)*
+
+---
+
+### 🛠️ Skills
+
+- **Languages:** Swift, Python, Java, C++, HTML/CSS, JavaScript, PHP, SQL
+- **Frameworks:** SwiftUI, UIKit, Bootstrap, NumPy, Tkinter, Matplotlib
+- **Tools:** Xcode, VS Code, GitHub, Figma, Postman, JIRA, Playground
+- **Databases:** MySQL, Supabase
+
+---
+
+### 📜 Certifications
+
+- Software Engineering (NPTEL)
+- Database Programming with SQL (Oracle)
+- Design Thinking (Infosys)
+- Java Basic (HackerRank)
+- Postman API Fundamentals
+- Master Swift and App Building (GeeksforGeeks)
+- Fundamentals of Cybersecurity (Zscaler)
+
+---
+
+### 🗣️ Quote
+
+> "Create a technology that solves a problem rather than pretending to be."
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhinav-gupta-693579260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Abhinav9573/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode" alt="LeetCode"/></a>
+  <a href="mailto:abhinavgupta9573@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- Add your social links above -->
+</p>
