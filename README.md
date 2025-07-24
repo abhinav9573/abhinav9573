@@ -25,6 +25,10 @@
 - **[DeleteHunger](https://github.com/abhinav9573/DeleteHunger)**  
   Platform to reduce food waste, UN Zero Hunger aligned. *(HTML/CSS/JS/PHP)*
 
+- **[Hospital-priority-availability-management-system
+](https://github.com/abhinav9573/Hospital-priority-availability-management-system)**  
+ Algorithms and Data Structures. *(Java)*
+
 ---
 
 ### 🛠️ Skills
