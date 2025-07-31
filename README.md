@@ -20,7 +20,7 @@
 ### 🚀 Projects
 
 - **[VedIQ: Flashcard & Quiz App](https://github.com/abhinav9573/VedIQ-Flashcards-Quiz-Appz)**  
-  Learn smarter with flashcards and quizzes. *(Swift, SwiftUI, iOS)*  
+  Featured iOS app on the App Store to learn smarter with flashcards and quizzes. *(Swift, SwiftUI, iOS)*  
   [![Download on the App Store](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
 
 - **[ClosetCompass](https://github.com/abhinav9573/ClosetCompass)**  
