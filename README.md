@@ -18,13 +18,16 @@
 ---
 
 ### 🚀 Projects
+- **[Yatramitr](https://testflight.apple.com/join/m52kT8hc)**  
+   An iOS app that makes travel smarter with personalized itineraries, stunning journals, and a vibrant explorer community. *(Swift, UIKit, Mapkit, Supabase, AI Integration, iOS)*
+
 
 - **[VedIQ: Flashcard & Quiz App](https://github.com/abhinav9573/VedIQ-Flashcards-Quiz-Appz)**  
   Featured iOS app on the App Store to learn smarter with flashcards and quizzes. *(Swift, SwiftUI, iOS)*  
   [![Download on the App Store](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
 
 - **[ClosetCompass](https://github.com/abhinav9573/ClosetCompass)**  
-  Personal wardrobe manager with chatbot, packing plans, and more. *(Swift, iOS)*
+  Personal wardrobe manager with chatbot, packing plans, and more. *(Swift, SwiftUI iOS)*
 
 - **[DeleteHunger](https://github.com/abhinav9573/DeleteHunger)**  
   Platform to reduce food waste, UN Zero Hunger aligned. *(HTML/CSS/JS/PHP)*
