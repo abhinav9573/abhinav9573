@@ -43,8 +43,8 @@
 
 ### 🛠️ Skills
 
-- **Languages:** Swift, Python, Java, C++, HTML/CSS, JavaScript, PHP, SQL  
-- **Frameworks:** SwiftUI, UIKit, Bootstrap, NumPy, Tkinter, Matplotlib  
+- **Languages:** Swift, Java, C++, JavaScript, SQL
+- **Frameworks:** SwiftUI, UIKit, Bootstrap, React  
 - **Tools:** Xcode, VS Code, GitHub, Figma, Postman, JIRA, Playground  
 - **Databases:** MySQL, Supabase  
 
