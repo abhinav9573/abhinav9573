@@ -30,8 +30,7 @@
   Personal wardrobe manager with chatbot, packing plans, and more. *(Swift, SwiftUI, PhotosUI)*
 
 - **[KBC-India (Quiz WebApp)](https://github.com/abhinav9573/KBC-India)**  
-  A React-based quiz application featuring multiple-choice questions with timer functionality and persistent high scores.(Just for frontend demonstration) *(React, Js, CSS3, HTML)*.
-  **[Live](kbcindia.netlify.app/)**  
+  A React-based quiz application featuring multiple-choice questions with timer functionality and persistent high scores.(Just for frontend demonstration) *(React, Js, CSS3, HTML)*. 
 
 - **[DeleteHunger](https://github.com/abhinav9573/DeleteHunger)**  
   Platform to reduce food waste, UN Zero Hunger aligned. *(HTML/CSS/JS/PHP)*
